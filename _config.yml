@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: https://media.licdn.com/dms/image/D5603AQHQ94Hh_tNOMw/profile-displayphoto-shrink_800_800/0/1693489105949?e=2147483647&v=beta&t=_OTjTGe8bQz-wS7PpgPRVpD7LwuW6u6gDulT_dF8XMM
+about_profile_image: images/profole.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Maksim Savich and I am an undergraduate student studying Computer Science at Michigan State University.
 
