@@ -31,10 +31,10 @@ linkedin_username: maksimsavich
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: Resume
-#   icon: fas fa-globe
-#   url: images/Savich_Maksim_Resume_2023_Current.pdf
+additional_links:
+- title: Resume
+  icon: fas fa-file
+  url: https://github.com/MaksimSavich/my-website/blob/main/resume/Savich_Maksim_Resume_2023_Current.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -69,7 +69,22 @@ content:
         # quote: >
         #   Quote text
         description: | # this will include new lines to allow paragraphs
-          This project was created as a rewrite for a pre-existing discord attendance recording bot for a solar racing club I am a part of. The previous bot was very simple and had bugs. The leads of the club required a more stable bot and so I took the liberty to completely rewrite the bot and add many updated features.
+          This project was created as a rewrite for a pre-existing discord attendance recording bot for a solar racing club I am a part of. The previous bot was very simple and had bugs. I decided to rewrite the bot using Python and the Discord.py library. It also utilized the Pandas library to handle dataframes and save them to CSV files so that they can be saved in the discord guild.
+      - layout: top-middle
+        title: TUI Hangman Game
+        link: https://github.com/MaksimSavich/Hangman_APCSP_Project/
+        # link_text: Project Website
+        additional_links:
+          - title:  MaksimSavich/Hangman_APCSP_Project/
+            icon: fab fa-github
+            url: github.com/MaksimSavich/Hangman_APCSP_Project/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   Quote text
+        description: | # this will include new lines to allow paragraphs
+          This project was created for the AP Computer Science Principals create task. It is a full fledged hangman game built in Java and packaged with gradle that is played within the terminal.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
