@@ -121,6 +121,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am currently studying Computer Science at Michigan State University. I am a part of the Solar Racing, Spartan Cybersecurity, and AI clubs. I look forward to trying new clubs and different areas of study in the future.
 
+  - title: Programming Language Proficiency # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Excellent
+        description: | # this will include new lines to allow paragraphs
+          Javascript, Python, Java, CSS 3, HTML 5
+    content:
+      - layout: left
+        title: Famililar
+        description: | # this will include new lines to allow paragraphs
+          C, C++, C#, GoLang
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
