@@ -75,6 +75,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Domino's Pizza
+        link: https://www.dominos.com/en/
+        # link_text: thehighlandhouse.net
+        sub_title: Insider & Delivery Driver
+        caption: June 2022 - November 2022
+        # quote: >
+        #   Quote text
+        description: | # this will include new lines to allow paragraphs
+            I was entrusted with the duties of all positions at the particular store I worked at. I uptook managerial responsibilities by opening and closing the store, training staff, and making bank deposits. I also ensured the highest standards of accuracy, safety, compliance, and customer service.
+    content:
+      - layout: left
         title: Highland House
         link: https://www.thehighlandhouse.net/
         # link_text: thehighlandhouse.net
@@ -84,7 +95,6 @@ content:
         #   Quote text
         description: | # this will include new lines to allow paragraphs
             I served customers in a high-volume restuarant by ensuring customer satisfaction through maintaining a clean environment.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
