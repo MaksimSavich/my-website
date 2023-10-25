@@ -84,7 +84,6 @@ content:
         #   Quote text
         description: | # this will include new lines to allow paragraphs
             I was entrusted with the duties of all positions at the particular store I worked at. I uptook managerial responsibilities by opening and closing the store, training staff, and making bank deposits. I also ensured the highest standards of accuracy, safety, compliance, and customer service.
-    content:
       - layout: left
         title: Highland House
         link: https://www.thehighlandhouse.net/
