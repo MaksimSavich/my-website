@@ -31,10 +31,10 @@ linkedin_username: maksimsavich
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Resume
-  icon: fas fa-globe
-  url: images/Savich_Maksim_Resume_2023_Current.pdf
+# additional_links:
+# - title: Resume
+#   icon: fas fa-globe
+#   url: images/Savich_Maksim_Resume_2023_Current.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
