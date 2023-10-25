@@ -30,7 +30,7 @@ linkedin_username: maksimsavich
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-Additional icon links
+# Additional icon links
 additional_links:
 - title: Resume
   icon: fas fa-globe
