@@ -90,6 +90,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: East Lansing Ice Cube
+        link: https://www.eastlansingicecube.com/
+        # link_text: thehighlandhouse.net
+        sub_title: Maintenance
+        caption: December 2023 - Present
+        # quote: >
+        #   Quote text
+        description: | # this will include new lines to allow paragraphs
+            - test
+      - layout: left
         title: Domino's Pizza
         link: https://www.dominos.com/en/
         # link_text: thehighlandhouse.net
