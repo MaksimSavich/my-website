@@ -124,7 +124,9 @@ content:
         # quote: >
         #   Quote text
         description: | # this will include new lines to allow paragraphs
-            I served customers in a high-volume restuarant by ensuring customer satisfaction through maintaining a clean environment.
+            - Served customers in a high-volume restaurant.
+            - Known for strong teamwork, staff training, problem solving, and efficiency.
+            - Maintained a safe and clean environment in accordance with policies and procedures.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -135,9 +137,7 @@ content:
         # quote: >
           # Quote text
         description: | # this will include new lines to allow paragraphs
-          - Served customers in a high-volume restaurant.
-          - Known for strong teamwork, staff training, problem solving, and efficiency.
-          - Maintained a safe and clean environment in accordance with policies and procedures.
+          I am studying Computer Science at Michigan State University. I am a part of the Solar Racing, Spartan Cybersecurity, and AI clubs. I look forward to venturing into new areas of study in quantum physics and cyberlaw.
 
   # - title: Programming Language Proficiency # Title for the section
   #   layout: list # Type of content section (list/text)
