@@ -9,7 +9,7 @@ version: 2
 name: Maksim Savich
 title: Undergraduate Student
 email: savichm2@msu.edu
-website: resume.maksimsavich.com
+website: maksimsavich.com
 website_title: My Website
 
 # Dark Mode (true/false/never)
@@ -87,18 +87,6 @@ content:
           This project was created for the AP Computer Science Principals create task. It is a full fledged hangman game built in Java and packaged with gradle that is played within the terminal.
 
   - title: Experience # Title for the section
-  layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title: East Lansing Ice Cube
-          link: https://www.eastlansingicecube.com/
-          # link_text: thehighlandhouse.net
-          sub_title: Maintenance
-          caption: December 2023 - Present
-          # quote: >
-          #   Quote text
-          description: | # this will include new lines to allow paragraphs
-              I was entrusted with the duties of all positions at the particular store I worked at. I uptook managerial responsibilities by opening and closing the store, training staff, and making bank deposits. I also ensured the highest standards of accuracy, safety, compliance, and customer service.
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -110,8 +98,7 @@ content:
         # quote: >
         #   Quote text
         description: | # this will include new lines to allow paragraphs
-            - thi is a test
-            - ths
+            I was entrusted with the duties of all positions at the particular store I worked at. I uptook managerial responsibilities by opening and closing the store, training staff, and making bank deposits. I also ensured the highest standards of accuracy, safety, compliance, and customer service.
       - layout: left
         title: Highland House
         link: https://www.thehighlandhouse.net/
