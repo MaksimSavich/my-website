@@ -98,7 +98,9 @@ content:
         # quote: >
         #   Quote text
         description: | # this will include new lines to allow paragraphs
-            - test
+            - Maintain a safe, healthy, and functioning environment in and outside of the ice rink.
+            - Clean and take care of the sheets of ice throughout the day.
+            - Assist anyone whenever help is needed.
       - layout: left
         title: Domino's Pizza
         link: https://www.dominos.com/en/
@@ -108,7 +110,11 @@ content:
         # quote: >
         #   Quote text
         description: | # this will include new lines to allow paragraphs
-            I was entrusted with the duties of all positions at the particular store I worked at. I uptook managerial responsibilities by opening and closing the store, training staff, and making bank deposits. I also ensured the highest standards of accuracy, safety, compliance, and customer service.
+            - Thrived in a fast-paced environment with a small team of employees.
+            - Trusted with responsibility to open and close the store and train the staff – traditionally the role of the manager.
+            - Processed payment and made bank deposits.
+            - Ensured the highest standards of accuracy, safety, compliance, and customer service.
+
       - layout: left
         title: Highland House
         link: https://www.thehighlandhouse.net/
@@ -129,7 +135,9 @@ content:
         # quote: >
           # Quote text
         description: | # this will include new lines to allow paragraphs
-          I am currently studying Computer Science at Michigan State University. I am a part of the Solar Racing, Spartan Cybersecurity, and AI clubs. I look forward to trying new clubs and different areas of study in the future.
+          - Served customers in a high-volume restaurant.
+          - Known for strong teamwork, staff training, problem solving, and efficiency.
+          - Maintained a safe and clean environment in accordance with policies and procedures.
 
   # - title: Programming Language Proficiency # Title for the section
   #   layout: list # Type of content section (list/text)
